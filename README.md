@@ -30,3 +30,25 @@ Choose the typeface.
 Collect SVG icons
 Start designing
 Design the Dark theme
+
+
+4. Setup Project Environment
+In this step, setup the directories and create files for your project.
+
+5. Create HTML structure
+Open your index.html file and create the html structure. Don't forget to link your CSS and Js file with index.html.
+
+6. Add CSS Styling
+Open your style.css file to style the to-do app. Follow these steps to style your to-do.
+
+Set root variables
+Define container layouts
+Set hover effects
+Style input placeholder using pseudo classes.
+Add Media queries
+
+When user enter a new task in input and submit the form the task input value will go to a function , which creates a task element with checkbox using task input value. then add another function, which remove the task item when checkbox get checked.
+
+Open your script.js file and style the to-do app. Follow these steps to add JS Functionality.
+It's done!!
+
